@@ -1,0 +1,7 @@
+C:\Users\gusta\OneDrive\Documentos\EJERCICIOS VISUAL STUDIO\CERTAMEN3\Ejercicio 1.1 (secuencia Cuadrado)\bin\Debug\Ejercicio 1.1 (secuencia Cuadrado).exe.config
+C:\Users\gusta\OneDrive\Documentos\EJERCICIOS VISUAL STUDIO\CERTAMEN3\Ejercicio 1.1 (secuencia Cuadrado)\bin\Debug\Ejercicio 1.1 (secuencia Cuadrado).exe
+C:\Users\gusta\OneDrive\Documentos\EJERCICIOS VISUAL STUDIO\CERTAMEN3\Ejercicio 1.1 (secuencia Cuadrado)\bin\Debug\Ejercicio 1.1 (secuencia Cuadrado).pdb
+C:\Users\gusta\OneDrive\Documentos\EJERCICIOS VISUAL STUDIO\CERTAMEN3\Ejercicio 1.1 (secuencia Cuadrado)\obj\Debug\Ejercicio 1.1 (secuencia Cuadrado).csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive\Documentos\EJERCICIOS VISUAL STUDIO\CERTAMEN3\Ejercicio 1.1 (secuencia Cuadrado)\obj\Debug\Ejercicio 1.1 (secuencia Cuadrado).exe
+C:\Users\gusta\OneDrive\Documentos\EJERCICIOS VISUAL STUDIO\CERTAMEN3\Ejercicio 1.1 (secuencia Cuadrado)\obj\Debug\Ejercicio 1.1 (secuencia Cuadrado).pdb
+C:\Users\gusta\OneDrive\Documentos\EJERCICIOS VISUAL STUDIO\CERTAMEN3\Ejercicio 1.1 (secuencia Cuadrado)\obj\Debug\Ejercicio 1.1 (secuencia Cuadrado).csprojAssemblyReference.cache

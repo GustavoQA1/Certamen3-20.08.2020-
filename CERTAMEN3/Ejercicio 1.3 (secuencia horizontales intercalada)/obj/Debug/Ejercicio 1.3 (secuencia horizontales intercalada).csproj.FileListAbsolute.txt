@@ -1,0 +1,7 @@
+C:\Users\gusta\OneDrive\Documentos\EJERCICIOS VISUAL STUDIO\CERTAMEN3\Ejercicio 1.3 (secuencia horizontales intercalada)\bin\Debug\Ejercicio 1.3 (secuencia horizontales intercalada).exe.config
+C:\Users\gusta\OneDrive\Documentos\EJERCICIOS VISUAL STUDIO\CERTAMEN3\Ejercicio 1.3 (secuencia horizontales intercalada)\bin\Debug\Ejercicio 1.3 (secuencia horizontales intercalada).exe
+C:\Users\gusta\OneDrive\Documentos\EJERCICIOS VISUAL STUDIO\CERTAMEN3\Ejercicio 1.3 (secuencia horizontales intercalada)\bin\Debug\Ejercicio 1.3 (secuencia horizontales intercalada).pdb
+C:\Users\gusta\OneDrive\Documentos\EJERCICIOS VISUAL STUDIO\CERTAMEN3\Ejercicio 1.3 (secuencia horizontales intercalada)\obj\Debug\Ejercicio 1.3 (secuencia horizontales intercalada).csprojAssemblyReference.cache
+C:\Users\gusta\OneDrive\Documentos\EJERCICIOS VISUAL STUDIO\CERTAMEN3\Ejercicio 1.3 (secuencia horizontales intercalada)\obj\Debug\Ejercicio 1.3 (secuencia horizontales intercalada).csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive\Documentos\EJERCICIOS VISUAL STUDIO\CERTAMEN3\Ejercicio 1.3 (secuencia horizontales intercalada)\obj\Debug\Ejercicio 1.3 (secuencia horizontales intercalada).exe
+C:\Users\gusta\OneDrive\Documentos\EJERCICIOS VISUAL STUDIO\CERTAMEN3\Ejercicio 1.3 (secuencia horizontales intercalada)\obj\Debug\Ejercicio 1.3 (secuencia horizontales intercalada).pdb

@@ -1,0 +1,7 @@
+C:\Users\gusta\OneDrive\Documentos\EJERCICIOS VISUAL STUDIO\CERTAMEN3\Ejercicio 1.4 (secuencia Verticales intercaladas)\bin\Debug\Ejercicio 1.4 (secuencia Verticales intercaladas).exe.config
+C:\Users\gusta\OneDrive\Documentos\EJERCICIOS VISUAL STUDIO\CERTAMEN3\Ejercicio 1.4 (secuencia Verticales intercaladas)\bin\Debug\Ejercicio 1.4 (secuencia Verticales intercaladas).exe
+C:\Users\gusta\OneDrive\Documentos\EJERCICIOS VISUAL STUDIO\CERTAMEN3\Ejercicio 1.4 (secuencia Verticales intercaladas)\bin\Debug\Ejercicio 1.4 (secuencia Verticales intercaladas).pdb
+C:\Users\gusta\OneDrive\Documentos\EJERCICIOS VISUAL STUDIO\CERTAMEN3\Ejercicio 1.4 (secuencia Verticales intercaladas)\obj\Debug\Ejercicio 1.4 (secuencia Verticales intercaladas).csprojAssemblyReference.cache
+C:\Users\gusta\OneDrive\Documentos\EJERCICIOS VISUAL STUDIO\CERTAMEN3\Ejercicio 1.4 (secuencia Verticales intercaladas)\obj\Debug\Ejercicio 1.4 (secuencia Verticales intercaladas).csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive\Documentos\EJERCICIOS VISUAL STUDIO\CERTAMEN3\Ejercicio 1.4 (secuencia Verticales intercaladas)\obj\Debug\Ejercicio 1.4 (secuencia Verticales intercaladas).exe
+C:\Users\gusta\OneDrive\Documentos\EJERCICIOS VISUAL STUDIO\CERTAMEN3\Ejercicio 1.4 (secuencia Verticales intercaladas)\obj\Debug\Ejercicio 1.4 (secuencia Verticales intercaladas).pdb

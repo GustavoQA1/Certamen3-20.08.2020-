@@ -1,0 +1,7 @@
+C:\Users\gusta\OneDrive\Documentos\EJERCICIOS VISUAL STUDIO\CERTAMEN3\prueba 3\bin\Debug\prueba 3.exe.config
+C:\Users\gusta\OneDrive\Documentos\EJERCICIOS VISUAL STUDIO\CERTAMEN3\prueba 3\bin\Debug\prueba 3.exe
+C:\Users\gusta\OneDrive\Documentos\EJERCICIOS VISUAL STUDIO\CERTAMEN3\prueba 3\bin\Debug\prueba 3.pdb
+C:\Users\gusta\OneDrive\Documentos\EJERCICIOS VISUAL STUDIO\CERTAMEN3\prueba 3\obj\Debug\prueba 3.csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive\Documentos\EJERCICIOS VISUAL STUDIO\CERTAMEN3\prueba 3\obj\Debug\prueba 3.exe
+C:\Users\gusta\OneDrive\Documentos\EJERCICIOS VISUAL STUDIO\CERTAMEN3\prueba 3\obj\Debug\prueba 3.pdb
+C:\Users\gusta\OneDrive\Documentos\EJERCICIOS VISUAL STUDIO\CERTAMEN3\prueba 3\obj\Debug\prueba 3.csprojAssemblyReference.cache
